@@ -1,0 +1,5 @@
+dataset,total_nans_before,total_nans_after,total_reduction,rows_all_nan_before,rows_all_nan_after,excluded_countries_count
+gdp,0,36,-36,0,6,6
+gov_eff,0,72,-72,0,12,12
+edu_spend,0,210,-210,0,35,35
+rd,0,630,-630,0,105,105
